@@ -1,0 +1,23 @@
+# Query: email
+# Flags: RegExp
+# ContextLines: 1
+
+6 results - 2 files
+
+index.html:
+  1835                                  kaviyarasu1204@gmail.com
+  1836:                                 <span>Email me anytime</span>
+  1837                              </div>
+
+  1862                          <div class="form-group">
+  1863:                             <label>Email</label>
+  1864:                             <input type="email" placeholder="kaviyarasu1204@email.com" required>
+  1865                          </div>
+
+  1881          <div class="footer-socials">
+  1882:             <a href="mailto:kaviyarasu1204@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+  1883              <a href="https://www.linkedin.com/in/kaviyarasu-m01" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+
+README.md:
+  35  - **LinkedIn:** [linkedin.com/in/kaviyarasu-m](https://www.linkedin.com/in/kaviyarasu-m)
+  36: - **Email:** kaviyarasu1204@gmail.com
