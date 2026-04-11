@@ -32,5 +32,5 @@ This is a completely static website with no build step required.
 
 Translating complex healthcare data into actionable financial insights. Built with a rare fusion of biochemistry domain expertise, financial acumen, and data science capability.
 
-- **LinkedIn:** [linkedin.com/in/kaviyarasu-m](https://www.linkedin.com/in/kaviyarasu-m)
+- **LinkedIn:** [linkedin.com/in/kaviyarasu-m](https://www.linkedin.com/in/kaviyarasu-m01)
 - **Email:** kaviyarasu1204@gmail.com
